@@ -63,3 +63,30 @@ body{
 .iconi:hover{
 	background-color:#939598;
 }
+
+table{
+	border: 1px solid black;
+	margin: auto;
+	padding: 10px;
+}
+
+
+input[type="button"]{
+	padding: 5px 15px;
+	margin: 5px 25px;
+	
+	cursor: pointer;
+	width: 100px
+}
+input[type="text"]{
+	margin:auto;
+	width: 150px;
+	
+}
+td{
+	padding: 10px;
+}
+
+
+
+
